@@ -1,0 +1,2 @@
+newreadme.md
+stash
